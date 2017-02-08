@@ -1,5 +1,0 @@
-E:\SqlSugar\SqlSugar\bin\Debug\SqlSugar.XML
-E:\SqlSugar\SqlSugar\bin\Debug\SqlSugar.dll
-E:\SqlSugar\SqlSugar\bin\Debug\SqlSugar.pdb
-E:\SqlSugar\SqlSugar\obj\Debug\SqlSugar.dll
-E:\SqlSugar\SqlSugar\obj\Debug\SqlSugar.pdb
