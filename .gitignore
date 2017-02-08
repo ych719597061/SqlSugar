@@ -212,3 +212,5 @@ _Pvt_Extensions/
 ModelManifest.xml
 /SqlSugar/bin
 /SqlSugar/obj
+/SqlSugar/obj
+/SqlSugar/bin

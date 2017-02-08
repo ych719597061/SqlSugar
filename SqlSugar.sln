@@ -1,11 +1,15 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlSugar", "SqlSugar\SqlSugar.csproj", "{46A17E67-7E3E-4369-9B1F-43BA34BBDAEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTest", "NewTest\NewTest.csproj", "{2F972F9F-CCCD-488C-A86E-B0BECACE0867}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PkDapper", "PkDapper\PkDapper.csproj", "{C3B6101B-0B5A-492E-946B-ECC05483137F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarTest", "SugarTest\SugarTest.csproj", "{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +51,18 @@ Global
 		{C3B6101B-0B5A-492E-946B-ECC05483137F}.Release|Mixed Platforms.Build.0 = Release|x86
 		{C3B6101B-0B5A-492E-946B-ECC05483137F}.Release|x86.ActiveCfg = Release|x86
 		{C3B6101B-0B5A-492E-946B-ECC05483137F}.Release|x86.Build.0 = Release|x86
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Debug|x86.Build.0 = Debug|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Release|x86.ActiveCfg = Release|Any CPU
+		{0CC2B701-E040-42BF-BC8C-225B8FA1AC18}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
